@@ -1,7 +1,7 @@
 # R 
-1. Complete Guide to R: Wrangling, Visualizing, and Modeling Data
-2. R for Excel Users
-3. R for Data Science: Analysis and Visualization
+* **Complete Guide to R: Wrangling, Visualizing, and Modeling Data**
+* **R for Excel Users**
+* **R for Data Science: Analysis and Visualization**
 
 **Tools:** RStudio | Google CoLab | Jamovi 
 
@@ -27,8 +27,6 @@
 
 
 ## R for Data Science: Analysis and Visualization
-* Data Visualization
-* Data Wrangling
-* Data Analysis
+* Data Visualization | Data Wrangling | Data Analysis
 
 
