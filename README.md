@@ -1,4 +1,9 @@
 # R 
+1. Complete Guide to R: Wrangling, Visualizing, and Modeling Data
+2. R for Excel Users
+3. R for Data Science: Analysis and Visualization
+
+### Tools
 * RStudio 
 * Google CoLab 
 * Jamovi 
