@@ -3,10 +3,7 @@
 2. R for Excel Users
 3. R for Data Science: Analysis and Visualization
 
-### Tools
-* RStudio 
-* Google CoLab 
-* Jamovi 
+**Tools:** RStudio | Google CoLab | Jamovi 
 
 
 ## Complete Guide to R: Wrangling, Visualizing, and Modeling Data
@@ -21,7 +18,12 @@
 9. Clustering and Classifying Cases
 
 ## R for Excel Users
-Descriptive Statistics in Excel
+1. Descriptive Statistics in R and Excel
+2. R and Excel
+3. DescTools Univariate Analyses
+4. Desc Output
+5. Bivariate Analysis in DescTools
+6. Bivariate Analysis in Excel 
 
 
 ## R for Data Science: Analysis and Visualization
