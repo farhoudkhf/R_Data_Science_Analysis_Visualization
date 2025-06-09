@@ -1,0 +1,8 @@
+library(DescTools)
+setwd("C:/Users/conra/Desktop")
+
+mydataframe <- read.csv("sizes.csv", header = TRUE)
+
+head(mydataframe)
+
+mydataframe

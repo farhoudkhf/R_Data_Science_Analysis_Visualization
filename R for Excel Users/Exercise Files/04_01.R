@@ -1,0 +1,9 @@
+library(DescTools)
+
+Desc(d.pizza$temperature)
+
+Desc(d.pizza$temperature, plotit = FALSE)
+
+Fmt(abs=structure(list(big.mark=","),class="fmt"))
+
+# Desc(d.pizza$price, plotit = TRUE)
