@@ -1,0 +1,5 @@
+library(DescTools)
+Fmt(abs=structure(list(big.mark=","),class="fmt"))
+z <- Desc(d.pizza$temperature)
+print(z,digits=1,plotit=FALSE)
+Desc(d.pizza$temperature)
